@@ -4,10 +4,12 @@
     padding-top: 25px;
 }
 
+#navigation a{
+    color: white;
+}
 #navigation li{
     display: inline;
     text-align: center;
-    color: white;
     margin-left: 10%;
 }
 
