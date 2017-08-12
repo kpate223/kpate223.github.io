@@ -97,3 +97,7 @@ footer li{
     display: inline;
     text-align: center;
 }
+
+.icons li:hover{
+    font-size:20x;
+}
