@@ -57,12 +57,15 @@ header{
 }
 #portfolio{
      background: url(mountain.jpg);
-         background-size:cover;
+     background-size:cover;
 }
 #portfolio li{
     display: inline;
     text-align: center;
     padding: 3%;
+}
+#portfolio li:hover{
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)); 
 }
 
 #contact{
